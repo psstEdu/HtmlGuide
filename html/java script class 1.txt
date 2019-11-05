@@ -1,0 +1,11 @@
+<html>
+<head>
+<script language ="Java script">
+document.write("Hello");
+alert("Hai");
+var name =prompt("enter your name","type name here");
+documen.write ("<h2>Hello!"+name+"Welcome to my site!</h2>");
+conform("Sure?");
+</script>
+</head>
+</html>

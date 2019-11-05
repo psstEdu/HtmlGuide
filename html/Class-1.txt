@@ -1,0 +1,19 @@
+
+Structure of HTML
+
+website....collection of web pages
+   static   --- no change(no user interaction)
+   dynamic  --- user interaction (asp.net,php,jsp)
+
+static site --- no need of coding ,use html,dreamweaver
+
+<html>
+<head>
+	<title>.......</title>
+	
+</head>
+<body>
+	Content of web site
+	
+</body>
+</html>
